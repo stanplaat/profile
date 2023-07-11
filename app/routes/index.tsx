@@ -70,7 +70,7 @@ const Index = () => {
       </Box>
     );
   };
-
+    
   return (
     <Stack direction={'column'}>
       <Stack 
