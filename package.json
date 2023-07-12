@@ -1,6 +1,7 @@
 {
   "private": true,
   "sideEffects": false,
+  "name": "profile",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
